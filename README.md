@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jylee0805&layout=compact&theme=gotham&hide_border=true&card_width=220" /></p>
+<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jylee0805&layout=compact&theme=flag-india&hide_border=true&card_width=220" /></p>
 
 
 <!--
